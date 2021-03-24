@@ -1,7 +1,7 @@
 # MEGMA
 MEGMA is standard modelling library for model based design of embedded control functions in automotive industry. 
 
-The library is implemented with identical functionality within the design tools like ASCET and SIMULINK. In the long term, it's usage will enable possible automatic exchange of graphical models between tools mentioned or supported.
+The library is designed with identical functionality within the design tools like ASCET and SIMULINK. In the long term, it's usage will help in automatic exchange of graphical models between tools mentioned earler.
 
 MEGMA library overview is available at http://www.msr-wg.de/megma/index.html and more details are available at http://www.msr-wg.de/megma/activit.html
 
